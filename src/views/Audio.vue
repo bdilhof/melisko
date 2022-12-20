@@ -18,6 +18,26 @@ export default {
     return {
       files: [
         {
+          name: 'Aby ťa mater zabila!',
+          path: 'audio/aby_ta_mater_zabila.wav',
+        },
+        {
+          name: 'Pozor!',
+          path: 'audio/pozor.wav',
+        },
+        {
+          name: 'To je čo toto?',
+          path: 'audio/to_je_co_toto.wav',
+        },
+        {
+          name: 'Toto je život!',
+          path: 'audio/toto_je_zivot.wav',
+        },
+        {
+          name: 'Už mám v piči nervy zas!',
+          path: 'audio/uz_mam_v_pici_nervy_zas.wav',
+        },
+        {
           name: 'A kto to vypol?!',
           path: 'audio/a_kto_to_vypol.wav',
         },
