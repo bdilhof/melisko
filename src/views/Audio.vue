@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Meliško by VRMNT</h1>
+    <h1>Meliško</h1>
     <div v-if="files.length" class="row">
       <div v-for="file in files" class="col-sm-4">
         <button @click="play(file.path)" class="btn btn-lg btn-primary w-100 mb-2 text-nowrap">

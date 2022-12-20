@@ -2,7 +2,7 @@ const { defineConfig } = require('@vue/cli-service')
 
 module.exports = {
     pwa: {
-        name: 'Meliško by VRMNT',
+        name: 'Meliško',
         themeColor: '#212529',
         msTileColor: '#212529'
     },
